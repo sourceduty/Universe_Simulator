@@ -13,6 +13,14 @@ Beyond explanations, the Universe Simulator encourages creative exploration of a
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Big Bang Simulator](https://github.com/sourceduty/Big_Bang_Simulator/)
+<br>
+[GPT Simulators](https://github.com/sourceduty/GPT_Simulators)
+<br>
+[Space](https://github.com/sourceduty/Space)
+<br>
+[Satellite Lab](https://github.com/sourceduty/Satellite_Lab)
+<br>
+[Cosmology](https://github.com/sourceduty/Cosmology)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
