@@ -11,6 +11,8 @@ Beyond explanations, the Universe Simulator encourages creative exploration of a
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Big Bang Simulator](https://github.com/sourceduty/Big_Bang_Simulator/)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
